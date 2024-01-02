@@ -1,5 +1,6 @@
 ## Rahat Bot 
 
+Staging Link to the Bot: https://app-rahat-bot.vercel.app/
 [Password Sheet](https://docs.google.com/spreadsheets/d/13Ma7vX3eAf0MZS767FoYpqzEexJLRok0HKu3islsEYY/)
 
 <!--
